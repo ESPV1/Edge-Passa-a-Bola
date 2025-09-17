@@ -5,32 +5,30 @@ Desenvolvemos um sistema que utiliza um **sensor infravermelho (IR)** no gol par
 Essa solução amplia a confiabilidade, permite estatísticas ao vivo e aproxima o público da experiência digital do esporte feminino.  
 
 
-## 📌 Funcionalidade IoT
-- Sensor infravermelho (IR) detecta gols  
-- Microcontrolador (Arduino/ESP32) processa os sinais  
-- Node-RED recebe e organiza os dados  
-- Back-end armazena no Banco de Dados  
-- Front-end exibe estatísticas em tempo real
-
-
 ## 🖥️ Arquitetura Proposta
 A arquitetura é composta pelos seguintes elementos:
 
-- **Dispositivo IoT (Sensor IR + Arduino/ESP32):** Detecta o gol  
-- **Back-end:** Processa e distribui as informações  
-- **Banco de Dados:** Armazena os registros de gols  
-- **Front-end:** Mostra os dados para usuários no site  
+- **Dispositivo IoT (Sensor IR + Arduino/ESP32):** Detecta a passagem da bola  
+- **Node-RED:** Processa os dados do sensor e distribui para aplicação e banco  
+- **Banco de Dados:** Registra gols e mantém histórico de estatísticas  
+- **Aplicação (Front-end):** Mostra os dados para usuários em tempo real  
 
-**Diagrama:**  
+**Diagrama:**   
 
  **LEMBRAR DE COLOCAR A IMAGEM DO DIAGRAMA AQUI**
 
 
 ## 🔧 Recursos Necessários
-- **Dispositivos:** Sensor Infravermelho (IR), Arduino ou ESP32  
-- **Ferramentas:** Wokwi (simulação), Node-RED (fluxos IoT)  
+- **Dispositivos:**  
+  - Sensor Infravermelho (IR)  
+  - Arduino ou ESP32  
+
+- **Ferramentas:**  
+  - Wokwi (simulação de hardware)  
+  - Node-RED (fluxos IoT)  
+
 - **Linguagens/Frameworks:**  
-  - **LEMBRAR DE COLOCAR AS LINGUAGENS**  
+  **LEMBRAR DE PREENCHER**  
 
 
 ## 🚀 Instruções de Uso
