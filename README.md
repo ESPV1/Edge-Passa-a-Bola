@@ -24,17 +24,10 @@ A arquitetura é composta pelos seguintes elementos:
   - Arduino ou ESP32  
 
 - **Ferramentas:**  
-  - Wokwi (simulação de hardware)  
-  - Node-RED (fluxos IoT)  
-
-- **Linguagens/Frameworks:**  
-  **LEMBRAR DE PREENCHER**  
-
-
-## 🚀 Instruções de Uso
-- **LEMBRAR DE PREENCHER** 
-
-
+  - Node-RED (fluxos IoT)
+  - MQTT
+  - Oracle Virtual Box
+  
 ## 🧑‍💻 Equipe
 <table>
   <tr><th><span>Integrantes</span></th><th><span>Tarefas</span></th></tr>
@@ -44,7 +37,7 @@ A arquitetura é composta pelos seguintes elementos:
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Criação ReadMe</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +47,8 @@ A arquitetura é composta pelos seguintes elementos:
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Configuração da Maquina Virtual</li>
+        <li>Fluxo Node red</li>
       </ul>
     </td>
   </tr>
@@ -64,7 +58,7 @@ A arquitetura é composta pelos seguintes elementos:
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Parte Introdução</li>
       </ul>
     </td>
   </tr>
@@ -74,7 +68,7 @@ A arquitetura é composta pelos seguintes elementos:
     </td>
       <td>
       <ul>
-        <li></li>
+        <li>Criação de slides</li>
       </ul>
       </td>
 </table>
