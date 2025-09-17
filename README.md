@@ -4,8 +4,6 @@ O projeto visa integrar recursos de **IoT** à plataforma **Passa a Bola**, traz
 Desenvolvemos um sistema que utiliza um **sensor infravermelho (IR)** no gol para detectar a passagem da bola e registrar automaticamente os gols, enviando os dados em tempo real para o site.  
 Essa solução amplia a confiabilidade, permite estatísticas ao vivo e aproxima o público da experiência digital do esporte feminino.  
 
-
-## 📌 Funcionalidade IoT
 - Sensor infravermelho (IR) detecta gols  
 - Microcontrolador (Arduino/ESP32) processa os sinais  
 - Node-RED recebe e organiza os dados  
