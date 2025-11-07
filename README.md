@@ -1,4 +1,4 @@
-<h1 align=center>🏆 Passa a Bola – Sprint 3 </h1>
+<h1 align=center>🏆 Passa a Bola – Sprint 3/4 </h1>
 
 O projeto visa integrar recursos de **IoT** à plataforma **Passa a Bola**, trazendo inovação para o acompanhamento de partidas.  
 Desenvolvemos um sistema que utiliza um **sensor infravermelho (IR)** no gol para detectar a passagem da bola e registrar automaticamente os gols, enviando os dados em tempo real para o site.  
@@ -15,7 +15,7 @@ A arquitetura é composta pelos seguintes elementos:
 
 **Diagrama:**   
 
- **LEMBRAR DE COLOCAR A IMAGEM DO DIAGRAMA AQUI**
+![Diagrama](./diagram.JPG)
 
 
 ## 🔧 Recursos Necessários
