@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = 'build/edge-passa-a-bola.ino.elf'
+firmware = "build/edge-passa-a-bola.ino.bin"
